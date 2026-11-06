@@ -36,8 +36,8 @@ Before relying on it, check that closing the lid does not sleep the PC:
 
 Every release publishes `LidHibernate-version.json` next to the zips. The
 application reads it, compares versions, downloads the matching build and
-verifies its SHA-256 before installing it. From this the first version on,
-updates are handled by the app: **Check for updates** and **Install update** are
+verifies its SHA-256 before installing it. From the first release on, updates
+are handled by the app: **Check for updates** and **Install update** are
 in the tray menu, and **Auto-update** is on by default.
 
 Release notes: see the Releases page.
